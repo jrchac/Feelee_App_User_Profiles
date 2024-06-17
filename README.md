@@ -18,7 +18,7 @@ Young people are increasingly experiencing stress-related complaints, but tradit
 1. **EDA + SDA**: Summarize statistics, create visualizations, and perform correlation tests to understand the dataset better.
 
 ### Machine Learning Models
-Algorithm: k-means 
+Algorithm: k-means clustering
 1. **Inputs**:
    - **User Information**: Demographics such as age and gender.
    - **Emotional States**: Responses to questions about their emotional state.
