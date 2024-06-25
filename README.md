@@ -24,7 +24,7 @@ Algorithm: k-means clustering
    - **Emotional States**: Responses to questions about their emotional state.
    - **Physical Activity**: Data on physical activity, such as step counts.
 2. **Output**:
-   - **User Profiles**: Classify users into one of 15-20 clusters based on the inputs.
+   - **User Profiles**: Classify users into one of 6-12 clusters based on the inputs.
 3. **Result Analysis**
 
 ### Requirements
